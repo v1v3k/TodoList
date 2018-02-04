@@ -8,8 +8,8 @@ Things which I want to lear
 * ES6 Framework
 
 * React FrameWork
-** Server Side React VS Client Side React
-** React vs Preact
+   1) Server Side React VS Client Side React
+   2) React vs Preact
 
 * Webpack Bundling
 
